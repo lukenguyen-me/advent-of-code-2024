@@ -10,3 +10,5 @@ time = "run --quiet --release -- time"
 
 [env]
 AOC_YEAR = "2024"
+AOC_USER_ID = "1461419"
+AOC_SESSION = "53616c7465645f5f6ca870e28630cec9986cc7903c2a0a6dbf6f8bb6c04f48509412787562eff2dcb45a42fe442ccda9c8f2b81fdc943838d99469d193069d12"
