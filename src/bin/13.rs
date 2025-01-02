@@ -1,5 +1,3 @@
-use std::collections::HashMap;
-
 advent_of_code::solution!(13);
 
 struct Machine {
